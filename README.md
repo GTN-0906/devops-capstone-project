@@ -1,4 +1,5 @@
 # devops-capstone-project
+![Build Status](https://github.com/GTN-0906/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 ## Description
 A customer account management microservice developed as the capstone project for the DevOps course.
